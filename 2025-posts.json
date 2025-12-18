@@ -24,11 +24,11 @@
       "unpublished": 27
     },
     "word_count_stats": {
-      "total_words": 312464,
-      "average_words": 1894,
+      "total_words": 327008,
+      "average_words": 1890,
       "min_words": 0,
       "max_words": 7157,
-      "posts_with_content": 165
+      "posts_with_content": 173
     }
   },
   "posts": [
@@ -44,7 +44,7 @@
       "title": null,
       "subtitle": null,
       "podcast_url": null,
-      "word_count": null,
+      "word_count": 0,
       "public_url": "https://readrichtext.substack.com/p/9b5"
     },
     {
@@ -59,7 +59,7 @@
       "title": "The People's House: How Nashville Metro Council Is Starting To Reclaim Democratic Oversight from an Autocratic Mayor's Office",
       "subtitle": "After a bruising night of victories over surveillance, workplace reform, and homeless services accountability, Metro Council must now step into the explicit power they've rediscovered—and use it.",
       "podcast_url": null,
-      "word_count": null,
+      "word_count": 2679,
       "public_url": "https://readrichtext.substack.com/p/the-peoples-house-how-nashville-metro"
     },
     {
@@ -74,7 +74,7 @@
       "title": "Manaen Hall is not a Council Member, yet.",
       "subtitle": "Quick correction",
       "podcast_url": null,
-      "word_count": null,
+      "word_count": 43,
       "public_url": "https://readrichtext.substack.com/p/manaen-hall-is-not-a-council-member"
     },
     {
@@ -89,7 +89,7 @@
       "title": "Dispatch from the December 15th Budget and Finance Committee Meeting",
       "subtitle": "What happened last night",
       "podcast_url": null,
-      "word_count": null,
+      "word_count": 4605,
       "public_url": "https://readrichtext.substack.com/p/dispatch-from-the-december-15th-budget"
     },
     {
@@ -104,7 +104,7 @@
       "title": "{Surveillance MOU} There Is No Use Amending the MOU Resolution, CMs Attempts To Fix It are Making It Worse",
       "subtitle": "Metro Council has 100% oversight over DMC funds. It has 0% oversight over NDP funds. If Metro leaders want to exert oversight on these funds, they should do nothing.",
       "podcast_url": null,
-      "word_count": null,
+      "word_count": 3262,
       "public_url": "https://readrichtext.substack.com/p/surveillance-mou-there-is-no-amending"
     },
     {
@@ -119,7 +119,7 @@
       "title": "The Leaders Nashville Needs Are Being Recognized",
       "subtitle": "Three young leaders are showing what it takes to design a Nashville we want to stay in.",
       "podcast_url": null,
-      "word_count": null,
+      "word_count": 627,
       "public_url": "https://readrichtext.substack.com/p/the-leaders-nashville-needs-are-being"
     },
     {
@@ -134,7 +134,7 @@
       "title": "FWD: Jesus Urbanist: Cities of Shalom, not Surveillance",
       "subtitle": "Surveillance is not morally neutral.",
       "podcast_url": null,
-      "word_count": null,
+      "word_count": 1523,
       "public_url": "https://readrichtext.substack.com/p/jesus-urbanist-cities-of-shalom-not"
     },
     {
@@ -149,7 +149,7 @@
       "title": "Breaking: Same Exec Who Literally Signed Fusus Contracts With Chief Drake Now Has New Surveillance Company in Mayor's MOU",
       "subtitle": "MNPD Chief Signed Fusus Contracts Alongside Executive Surveillance Tech Earmarked In Opaque Legislation Slipped onto Council's Docket Just Before Holiday",
       "podcast_url": null,
-      "word_count": null,
+      "word_count": 1805,
       "public_url": "https://readrichtext.substack.com/p/thanksgiving-mou-mnpd-slipped-in"
     },
     {
