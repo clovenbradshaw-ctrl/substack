@@ -22,6 +22,13 @@
     "by_status": {
       "published": 67,
       "unpublished": 27
+    },
+    "word_count_stats": {
+      "total_words": 312464,
+      "average_words": 1894,
+      "min_words": 0,
+      "max_words": 7157,
+      "posts_with_content": 165
     }
   },
   "posts": [
@@ -36,7 +43,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": null,
+      "public_url": "https://readrichtext.substack.com/p/9b5"
     },
     {
       "post_id": "181860842",
@@ -49,7 +58,9 @@
       "audience": "everyone",
       "title": "The People's House: How Nashville Metro Council Is Starting To Reclaim Democratic Oversight from an Autocratic Mayor's Office",
       "subtitle": "After a bruising night of victories over surveillance, workplace reform, and homeless services accountability, Metro Council must now step into the explicit power they've rediscovered—and use it.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": null,
+      "public_url": "https://readrichtext.substack.com/p/the-peoples-house-how-nashville-metro"
     },
     {
       "post_id": "181814874",
@@ -62,7 +73,9 @@
       "audience": "only_paid",
       "title": "Manaen Hall is not a Council Member, yet.",
       "subtitle": "Quick correction",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": null,
+      "public_url": "https://readrichtext.substack.com/p/manaen-hall-is-not-a-council-member"
     },
     {
       "post_id": "181806338",
@@ -75,7 +88,9 @@
       "audience": "everyone",
       "title": "Dispatch from the December 15th Budget and Finance Committee Meeting",
       "subtitle": "What happened last night",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": null,
+      "public_url": "https://readrichtext.substack.com/p/dispatch-from-the-december-15th-budget"
     },
     {
       "post_id": "181632086",
@@ -88,7 +103,9 @@
       "audience": "everyone",
       "title": "{Surveillance MOU} There Is No Use Amending the MOU Resolution, CMs Attempts To Fix It are Making It Worse",
       "subtitle": "Metro Council has 100% oversight over DMC funds. It has 0% oversight over NDP funds. If Metro leaders want to exert oversight on these funds, they should do nothing.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": null,
+      "public_url": "https://readrichtext.substack.com/p/surveillance-mou-there-is-no-amending"
     },
     {
       "post_id": "181607773",
@@ -101,7 +118,9 @@
       "audience": "everyone",
       "title": "The Leaders Nashville Needs Are Being Recognized",
       "subtitle": "Three young leaders are showing what it takes to design a Nashville we want to stay in.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": null,
+      "public_url": "https://readrichtext.substack.com/p/the-leaders-nashville-needs-are-being"
     },
     {
       "post_id": "181392133",
@@ -114,7 +133,9 @@
       "audience": "everyone",
       "title": "FWD: Jesus Urbanist: Cities of Shalom, not Surveillance",
       "subtitle": "Surveillance is not morally neutral.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": null,
+      "public_url": "https://readrichtext.substack.com/p/jesus-urbanist-cities-of-shalom-not"
     },
     {
       "post_id": "181387862",
@@ -127,7 +148,9 @@
       "audience": "everyone",
       "title": "Breaking: Same Exec Who Literally Signed Fusus Contracts With Chief Drake Now Has New Surveillance Company in Mayor's MOU",
       "subtitle": "MNPD Chief Signed Fusus Contracts Alongside Executive Surveillance Tech Earmarked In Opaque Legislation Slipped onto Council's Docket Just Before Holiday",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": null,
+      "public_url": "https://readrichtext.substack.com/p/thanksgiving-mou-mnpd-slipped-in"
     },
     {
       "post_id": "181285061",
@@ -140,7 +163,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 914,
+      "public_url": "https://readrichtext.substack.com/p/when-metro-arts-paid-artists-as-vendors"
     },
     {
       "post_id": "181151328",
@@ -153,7 +178,9 @@
       "audience": "everyone",
       "title": "Nashville Banner | Evicted in Nashville: How Tenants, Landlords and the Courts Face the Housing Crisis",
       "subtitle": "More than 1,000 people each month face losing their home; here's how the city is responding to the problem",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4546,
+      "public_url": "https://readrichtext.substack.com/p/nashville-banner-evicted-in-nashville"
     },
     {
       "post_id": "181144094",
@@ -166,7 +193,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4866,
+      "public_url": "https://readrichtext.substack.com/p/2e3"
     },
     {
       "post_id": "180796980",
@@ -179,7 +208,9 @@
       "audience": "everyone",
       "title": "Decorum applies to me too",
       "subtitle": "It's on brand for me to acknowledge when I don't live up to my own standards",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 640,
+      "public_url": "https://readrichtext.substack.com/p/decorum-applies-to-me-too"
     },
     {
       "post_id": "180753721",
@@ -192,7 +223,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1287,
+      "public_url": "https://readrichtext.substack.com/p/bb6"
     },
     {
       "post_id": "180674150",
@@ -205,7 +238,9 @@
       "audience": "everyone",
       "title": "{Thanksgiving MOU} State Records Reveal Nashville Downtown Partnership Was Never Getting the $15M",
       "subtitle": "The real \"misinformation\" at the heart of Freddie's deal with NDP",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1888,
+      "public_url": "https://readrichtext.substack.com/p/the-surveillance-mou-leaked-records"
     },
     {
       "post_id": "180666871",
@@ -218,7 +253,9 @@
       "audience": "everyone",
       "title": "Stray Notes on Nashville's Homelessness Strategy",
       "subtitle": "Just posting this here so I don't lose it.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 5344,
+      "public_url": "https://readrichtext.substack.com/p/stray-notes-on-nashvilles-homelessness"
     },
     {
       "post_id": "180570292",
@@ -231,7 +268,9 @@
       "audience": "everyone",
       "title": "Don't Let \"Electoralism\" Convince You Yesterday Was A Defeat in District 7",
       "subtitle": "Aftyn's slogan was not a promise. Its an instruction manual.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2199,
+      "public_url": "https://readrichtext.substack.com/p/dont-let-electoralism-convince-you"
     },
     {
       "post_id": "180530994",
@@ -244,7 +283,9 @@
       "audience": "everyone",
       "title": "New surveillance tech requires a public hearing. But our politicians are pretending it's \"not surveillance.\"",
       "subtitle": "But we're the ones spreading \"misinformation\"...",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1260,
+      "public_url": "https://readrichtext.substack.com/p/new-surveillance-tech-requires-a"
     },
     {
       "post_id": "180481712",
@@ -257,7 +298,9 @@
       "audience": "everyone",
       "title": "Award Winning Truthout.org Published My Reporting About Freddie's Surveillance MOU",
       "subtitle": "My concerns about Freddie's surveillance MOU, many of the same issues the Mayor's Office has called \"misinformation,\" was reviewed by professional editors and fact checkers.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1204,
+      "public_url": "https://readrichtext.substack.com/p/award-winning-truthoutorg-published"
     },
     {
       "post_id": "180449148",
@@ -270,7 +313,9 @@
       "audience": "everyone",
       "title": "Remind me what time you're voting tomorrow?",
       "subtitle": "District 7, if you didn't early vote, get to the polls tomorrow!",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 187,
+      "public_url": "https://readrichtext.substack.com/p/remind-me-what-time-youre-voting"
     },
     {
       "post_id": "180444437",
@@ -283,7 +328,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/i-was-hoping-national-surveillance"
     },
     {
       "post_id": "180442511",
@@ -296,7 +343,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/3e4"
     },
     {
       "post_id": "180353063",
@@ -309,7 +358,9 @@
       "audience": "everyone",
       "title": "The Mayor's Office Calls Surveillance Reporting \"Misinformation.\" Here's What the Documents Actually Say.",
       "subtitle": "Does the Mayor's Office only claim to care about NDP \"oversight\" when it facilitates controversial surveillance tech it couldn't get through Council?",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3810,
+      "public_url": "https://readrichtext.substack.com/p/debunking-the-mayors-offices-surveillance"
     },
     {
       "post_id": "180228745",
@@ -322,7 +373,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2549,
+      "public_url": "https://readrichtext.substack.com/p/sorry-who-asked-for-the-armored-vehicle"
     },
     {
       "post_id": "180083598",
@@ -335,7 +388,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 5025,
+      "public_url": "https://readrichtext.substack.com/p/misinformation-or-inconvenient-truth"
     },
     {
       "post_id": "179998581",
@@ -348,7 +403,9 @@
       "audience": "everyone",
       "title": "IBM, The Holocaust, And Oracle",
       "subtitle": "In 1977, Larry Ellison and his start-up co-founders spun a CIA contract called \"Project Oracle\" into the company it is today.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2474,
+      "public_url": "https://readrichtext.substack.com/p/ibm-the-holocaust-and-oracle"
     },
     {
       "post_id": "179971483",
@@ -361,7 +418,9 @@
       "audience": "everyone",
       "title": "From the Makers of Fusus (literally): Meet \"LeoSight\" | Mayor's MOU Resurrects Rejected Surveillance Tools Under New Branding",
       "subtitle": "The former Chief Revenue Officer of FUSUS started a company in March. Now they're up for a piece of the $15M the Mayor wants to give the Nashville Downtown Partnership. Funny how that works.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2685,
+      "public_url": "https://readrichtext.substack.com/p/from-the-makers-of-fusus-literally"
     },
     {
       "post_id": "179891086",
@@ -374,7 +433,9 @@
       "audience": "everyone",
       "title": "\"No\" means \"No\", Freddie. The Mayor's Office is trying to pass FUSUS on steroids while you're on Thanksgiving break.",
       "subtitle": "Write to your council member and tell them no public safety technology without our consent. Surveillance of us, without us, isn't for us.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1285,
+      "public_url": "https://readrichtext.substack.com/p/no-means-no-freddie-the-mayors-office"
     },
     {
       "post_id": "179737560",
@@ -387,7 +448,9 @@
       "audience": "everyone",
       "title": "Sunday Rewind | Freddie O'Connell: 'Strong Communities are better for safety than a surveillance state' and other things he reversed course on.",
       "subtitle": "Revisiting Mayor O'Connell's former anti-surveillance positions is becoming relevant yet again.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 262,
+      "public_url": "https://readrichtext.substack.com/p/sunday-rewind-freddie-oconnell-strong"
     },
     {
       "post_id": "179736906",
@@ -400,7 +463,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 262,
+      "public_url": "https://readrichtext.substack.com/p/sunday-rewind-axons-fusus-is-a-bad"
     },
     {
       "post_id": "179489897",
@@ -413,7 +478,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4466,
+      "public_url": "https://readrichtext.substack.com/p/an-open-letter-to-metro-council-surrendering"
     },
     {
       "post_id": "179314426",
@@ -426,7 +493,9 @@
       "audience": "everyone",
       "title": "{Null_Results}: She says she talked to the Mayor about OHS' lack of follow through on her housing. The Mayor's Office says it wasn't him.",
       "subtitle": "One mother's fight for housing reveals what Nashville stands to lose as Metro Council prepares to hand every department to the Mayor",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4545,
+      "public_url": "https://readrichtext.substack.com/p/null_results-she-says-she-talked"
     },
     {
       "post_id": "179294340",
@@ -439,7 +508,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3033,
+      "public_url": "https://readrichtext.substack.com/p/the-rules-of-enragement"
     },
     {
       "post_id": "179028119",
@@ -452,7 +523,9 @@
       "audience": "everyone",
       "title": "Taking a breath and saying what I'm grateful for. Thank you, Sensei!",
       "subtitle": "From bench builders to Aftyn Behn, here are six things happening in Nashville that give me hope instead of heartburn",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2107,
+      "public_url": "https://readrichtext.substack.com/p/taking-a-breath-and-saying-what-im"
     },
     {
       "post_id": "178911280",
@@ -465,7 +538,9 @@
       "audience": "everyone",
       "title": "Nashville Leaders: Your time is up. Come to the table on homelessness. Or get out of the goddamn way.",
       "subtitle": "This morning the Feds made this crisis very, very real.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2036,
+      "public_url": "https://readrichtext.substack.com/p/nashville-leaders-your-time-is-up"
     },
     {
       "post_id": "178804409",
@@ -478,7 +553,9 @@
       "audience": "everyone",
       "title": "Early voting is open NOW through November 26th for Tennessee's 7th Congressional District special election. Election Day is December 2nd.",
       "subtitle": "If you live in the 7th District (parts of Nashville, Williamson County, Montgomery County, Clarksville, and 11 other counties), you can vote for Aftyn Behn starting today.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 495,
+      "public_url": "https://readrichtext.substack.com/p/early-voting-is-open-now-through"
     },
     {
       "post_id": "178766813",
@@ -491,7 +568,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/ohs-director-admits"
     },
     {
       "post_id": "178723630",
@@ -504,7 +583,9 @@
       "audience": "everyone",
       "title": "My Open Letter to Homeless Services Director Calvin",
       "subtitle": "I gave public comment today at the Homelessness Planning Council Meeting and follow-up with an email to Office of Homeless Services Director April Calvin you can read here",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1912,
+      "public_url": "https://readrichtext.substack.com/p/my-open-letter-to-homeless-services"
     },
     {
       "post_id": "178659618",
@@ -517,7 +598,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 877,
+      "public_url": "https://readrichtext.substack.com/p/7f8"
     },
     {
       "post_id": "178549584",
@@ -530,7 +613,9 @@
       "audience": "only_paid",
       "title": "{Null_Results} \"I Cannot Compromise My Integrity\": Case Manager Resigned After OHS Partnership Created Ethical Conflicts",
       "subtitle": "A resignation letter obtained by {Rich Text} reveals that a Step Up case manager quit in October 2025 after witnessing homeless families \"repeatedly re-victimized\" through OHS's promises",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3529,
+      "public_url": "https://readrichtext.substack.com/p/i-cannot-compromise-my-integrity"
     },
     {
       "post_id": "178546748",
@@ -543,7 +628,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/f4a"
     },
     {
       "post_id": "178456949",
@@ -556,7 +643,9 @@
       "audience": "only_paid",
       "title": "{Null_Results} Text Messages Reveal OHS Director Hand-Picked Which Families to Receive Housing",
       "subtitle": "As part of Nashville's \"Non-Traditional Rapid Rehousing\" aka \"MRRF\", Office of Homeless Services Director Calvin had the final say of who was promised \"a year of free housing\" and a voucher.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1120,
+      "public_url": "https://readrichtext.substack.com/p/null_results-text-messages-reveal"
     },
     {
       "post_id": "178440728",
@@ -569,7 +658,9 @@
       "audience": "everyone",
       "title": "Marcus Parks: \"Be like Josepf Hartinger. Be one of the 100 in your state, city or even neighborhood that stands up.\"",
       "subtitle": "Last Podcast on the Left Host reminds us that America is inherently anti-fascist, and while using violence to fight fascism is precisely what the fascists need you to be, the way to resist is clear.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1279,
+      "public_url": "https://readrichtext.substack.com/p/marcus-parks-be-like-josepf-hartinger"
     },
     {
       "post_id": "178194588",
@@ -582,7 +673,9 @@
       "audience": "only_paid",
       "title": "{Null_Results}: Apparent $86K Procurement Violation Furnished Developer's Building with Wayfair— OHS's Placements Still Got Evicted",
       "subtitle": "Within an average of 7 months, at least ten people were evicted from the affordable housing facility through court order after the facility received funding from Metro Nashville.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1124,
+      "public_url": "https://readrichtext.substack.com/p/null_results-apparent-86k-procurement"
     },
     {
       "post_id": "178055115",
@@ -595,7 +688,9 @@
       "audience": "everyone",
       "title": "Being Compassionate AND Competent Is Cool Again | Here's how you can help during the SNAP Freeze",
       "subtitle": "You don't have to identify as a Democratic Socialist to see which way the winds are blowing.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1244,
+      "public_url": "https://readrichtext.substack.com/p/being-competent-and-compassionate"
     },
     {
       "post_id": "177957025",
@@ -608,7 +703,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/876"
     },
     {
       "post_id": "177693322",
@@ -621,7 +718,9 @@
       "audience": "everyone",
       "title": "Why did Nashville's Homeless Services Pay An Apartment Complex $90K While It Evicted 30+ Residents—Including Those It Paid to Be There?",
       "subtitle": "And other questions I need your support in answering.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2258,
+      "public_url": "https://readrichtext.substack.com/p/join-the-investigation"
     },
     {
       "post_id": "177487096",
@@ -634,7 +733,9 @@
       "audience": "only_paid",
       "title": "NYT: Utah Building Involuntary Treatment Campus for Homeless, Reflecting Trump's Policy Vision",
       "subtitle": "\"State officials promise large-scale involuntary addiction and mental health treatment at Salt Lake City's edge. Critics see \"a prison, or a warehouse.\"\"",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2475,
+      "public_url": "https://readrichtext.substack.com/p/nyt-utah-building-involuntary-treatment"
     },
     {
       "post_id": "177485701",
@@ -647,7 +748,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2468,
+      "public_url": "https://readrichtext.substack.com/p/nyt-utah-building-involuntary-treatment"
     },
     {
       "post_id": "177399551",
@@ -660,7 +763,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3875,
+      "public_url": "https://readrichtext.substack.com/p/open-questions-about-nashvilles-secret"
     },
     {
       "post_id": "177381007",
@@ -673,7 +778,9 @@
       "audience": "everyone",
       "title": "Uncovered: Nashville's Secret Homelessness System Outside of Any Oversight (...Except the Mayor)",
       "subtitle": "Nashville Scene: City Records Show 'Non-Traditional' Housing Program Expanding Under OHS Director",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1013,
+      "public_url": "https://readrichtext.substack.com/p/uncovered-nashvilles-secret-homelessness"
     },
     {
       "post_id": "177346617",
@@ -686,7 +793,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4339,
+      "public_url": "https://readrichtext.substack.com/p/ongoing-investigation-the-human-cost"
     },
     {
       "post_id": "177295766",
@@ -699,7 +808,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1062,
+      "public_url": "https://readrichtext.substack.com/p/how-i-uncovered-nashvilles-secret"
     },
     {
       "post_id": "176863395",
@@ -712,7 +823,9 @@
       "audience": "everyone",
       "title": "Oracle: TN's New Firm Was Not the First Tech Company to Profit from Ethnic Cleansing",
       "subtitle": "The company that Oracle based its core technology on, and who set the groundwork for \"data processing\", made millions in the 1940s. In Germany.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2699,
+      "public_url": "https://readrichtext.substack.com/p/oracle-was-not-the-first-company"
     },
     {
       "post_id": "176843162",
@@ -725,7 +838,9 @@
       "audience": "everyone",
       "title": "The Nashville Mayor's Office has removed all email addresses for its employees from Nashville.gov",
       "subtitle": "\"Choose How You Move\" Questioners discovered the change while trying to get answers about the alleged free bus passes paid for new taxes.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 887,
+      "public_url": "https://readrichtext.substack.com/p/the-nashville-mayors-office-has-removed"
     },
     {
       "post_id": "176709389",
@@ -738,7 +853,9 @@
       "audience": "everyone",
       "title": "Oracle: 10 Facts Nashville Needs to Know Before We Let Them Move Here",
       "subtitle": "San Diego Did It. Boston Did It. Portland Did It. Nashville's Turn to Say No to Mass Surveillance.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1111,
+      "public_url": "https://readrichtext.substack.com/p/oracle-10-facts-nashville-needs-to"
     },
     {
       "post_id": "176659916",
@@ -751,7 +868,9 @@
       "audience": "only_paid",
       "title": "IBM, The Holocaust, And Oracle: Preview of Upcoming Post",
       "subtitle": "An excerpt from an upcoming post I'm sharing with paid readers only",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2600,
+      "public_url": "https://readrichtext.substack.com/p/ibm-the-holocaust-and-oracle-preview"
     },
     {
       "post_id": "176659699",
@@ -764,7 +883,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1981,
+      "public_url": "https://readrichtext.substack.com/p/ibm-the-holocaust-and-oracle-preview"
     },
     {
       "post_id": "176575325",
@@ -777,7 +898,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3388,
+      "public_url": "https://readrichtext.substack.com/p/repost-how-i-became-a-polulist"
     },
     {
       "post_id": "176434835",
@@ -790,7 +913,9 @@
       "audience": "everyone",
       "title": "Data Dump: $281.8M // Two Months of Metro Nashville's Financial History",
       "subtitle": "July and August 2025 Transaction History for Metro Nashville Now Available",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2095,
+      "public_url": "https://readrichtext.substack.com/p/data-dump-2818m-two-months-of-metro"
     },
     {
       "post_id": "176434607",
@@ -803,7 +928,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/a14"
     },
     {
       "post_id": "176254517",
@@ -816,7 +943,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 412,
+      "public_url": "https://readrichtext.substack.com/p/dfb"
     },
     {
       "post_id": "176153801",
@@ -829,7 +958,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3570,
+      "public_url": "https://readrichtext.substack.com/p/ee7"
     },
     {
       "post_id": "175910946",
@@ -842,7 +973,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/fwd"
     },
     {
       "post_id": "175721122",
@@ -855,7 +988,9 @@
       "audience": "everyone",
       "title": "I (scratch that) WE Won Nashville Scene's \"Best Metro Watchdog\"",
       "subtitle": "Recognition is a vital step towards broader systems change, and I'm very honored that The Scene has recognized the importance of this healthy feedback loop we've all built together here.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 965,
+      "public_url": "https://readrichtext.substack.com/p/i-scratch-that-we-won-nashville-scenes"
     },
     {
       "post_id": "175647295",
@@ -868,7 +1003,9 @@
       "audience": "everyone",
       "title": "Why Nashville Should Define Its Opposition to the Gaza War",
       "subtitle": "Before antisemitic conspiracy theorists do it for us.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2271,
+      "public_url": "https://readrichtext.substack.com/p/why-nashville-should-define-its-opposition"
     },
     {
       "post_id": "175588173",
@@ -881,7 +1018,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/lets-freakin-go-yall"
     },
     {
       "post_id": "175547980",
@@ -894,7 +1033,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2079,
+      "public_url": "https://readrichtext.substack.com/p/why-we-must-define-our-opposition"
     },
     {
       "post_id": "175461320",
@@ -907,7 +1048,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3183,
+      "public_url": "https://readrichtext.substack.com/p/a-gift-to-oracle-not-to-appease-but"
     },
     {
       "post_id": "175461214",
@@ -920,7 +1063,9 @@
       "audience": "only_paid",
       "title": "What time are you voting tomorrow?",
       "subtitle": "If you're in TN US District 7, get to the polls tomorrow if you haven't already!",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 56,
+      "public_url": "https://readrichtext.substack.com/p/what-time-are-you-voting-tomorrow"
     },
     {
       "post_id": "175461102",
@@ -933,7 +1078,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 56,
+      "public_url": "https://readrichtext.substack.com/p/what-time-are-you-voting-tomorrow"
     },
     {
       "post_id": "175353589",
@@ -946,7 +1093,9 @@
       "audience": "only_paid",
       "title": "Tuesday's Your Last Chance In District 7 Primary",
       "subtitle": "Polls are closed on Monday — if you didn't make it to early voting, make a plan now to vote on Tuesday.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 62,
+      "public_url": "https://readrichtext.substack.com/p/tuesdays-your-last-chance-in-district"
     },
     {
       "post_id": "175353480",
@@ -959,7 +1108,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 39,
+      "public_url": "https://readrichtext.substack.com/p/tuesday-primary-is-your-only-chance"
     },
     {
       "post_id": "175226058",
@@ -972,7 +1123,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/829"
     },
     {
       "post_id": "175224133",
@@ -985,7 +1138,9 @@
       "audience": "everyone",
       "title": "A quick correction to last post's subtitle, and a definition I was asked for",
       "subtitle": "My article on Oracle was missing the \"without\" that made it matter. And an answer to: What is TechnoFutilism?",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1330,
+      "public_url": "https://readrichtext.substack.com/p/a-quick-correction-to-last-posts"
     },
     {
       "post_id": "175220086",
@@ -998,7 +1153,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1313,
+      "public_url": "https://readrichtext.substack.com/p/a-quick-correct-to-last-subtitle"
     },
     {
       "post_id": "175220049",
@@ -1011,7 +1168,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/2a0"
     },
     {
       "post_id": "175134934",
@@ -1024,7 +1183,9 @@
       "audience": "everyone",
       "title": "an honest question | my new series",
       "subtitle": "I am starting a new series tomorrow. As a preview, I have a simple question. Do you know the answer?",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 364,
+      "public_url": "https://readrichtext.substack.com/p/an-honest-question-my-new-series"
     },
     {
       "post_id": "175062068",
@@ -1037,7 +1198,9 @@
       "audience": "everyone",
       "title": "Who is Larry Ellison? And what does his company, Oracle, want from Nashville? Part 2",
       "subtitle": "TN & Metro Nashville have awarded Oracle $240M to move to the city. Has anyone asked them what, precisely, they would be doing here?",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 5572,
+      "public_url": "https://readrichtext.substack.com/p/who-is-larry-ellison-and-what-does-c6c"
     },
     {
       "post_id": "175051724",
@@ -1050,7 +1213,9 @@
       "audience": "everyone",
       "title": "What exactly does Oracle want to do in Nashville? Part 1/2",
       "subtitle": "Oracle left CA for TX in 2020. Now they're coming to Nashville. But only after TN changed its law to allow data processors like Oracle to give data to law enforcement without a warrant.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4583,
+      "public_url": "https://readrichtext.substack.com/p/who-is-larry-ellison-and-what-does"
     },
     {
       "post_id": "174974908",
@@ -1063,7 +1228,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4200,
+      "public_url": "https://readrichtext.substack.com/p/who-is-larry-ellison-and-what-does"
     },
     {
       "post_id": "174874107",
@@ -1076,7 +1243,9 @@
       "audience": "everyone",
       "title": "Why can't we have nice things?",
       "subtitle": "Nashville's delightful DIY bench project has a theft issue",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 943,
+      "public_url": "https://readrichtext.substack.com/p/why-cant-we-have-nice-things"
     },
     {
       "post_id": "174787755",
@@ -1089,7 +1258,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 6970,
+      "public_url": "https://readrichtext.substack.com/p/nashville-has-the-most-power-to-stop"
     },
     {
       "post_id": "174541007",
@@ -1102,7 +1273,9 @@
       "audience": "everyone",
       "title": "The Only Politician That's Got My Endorsement",
       "subtitle": "Aftyn Behn is doing governing right. Conservatives and the Municipal Left understand why. She's the only choice for Tuesday's Oct 7 Primary.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1888,
+      "public_url": "https://readrichtext.substack.com/p/the-only-politician-i-would-ever"
     },
     {
       "post_id": "174451008",
@@ -1115,7 +1288,9 @@
       "audience": "everyone",
       "title": "Metro Will Audit The Office of Homeless Services",
       "subtitle": "Yesterday's crowded Audit Committee Meeting Room was Democracy in Action",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2631,
+      "public_url": "https://readrichtext.substack.com/p/metro-will-audit-the-office-of-homeless"
     },
     {
       "post_id": "174396483",
@@ -1128,7 +1303,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2232,
+      "public_url": "https://readrichtext.substack.com/p/nashville-scene-city-to-audit-office"
     },
     {
       "post_id": "174259144",
@@ -1141,7 +1318,9 @@
       "audience": "everyone",
       "title": "1 Minute to Demand Accountability: Email the Audit Committee Now",
       "subtitle": "Can you send a quick email? An important local oversight function needs your support before tomorrow.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1342,
+      "public_url": "https://readrichtext.substack.com/p/one-email-today-could-change-everything"
     },
     {
       "post_id": "174220303",
@@ -1154,7 +1333,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/my-full-interview-had-some-four-letter"
     },
     {
       "post_id": "174220255",
@@ -1167,7 +1348,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/6cd"
     },
     {
       "post_id": "174220247",
@@ -1180,7 +1363,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/510"
     },
     {
       "post_id": "174178750",
@@ -1193,7 +1378,9 @@
       "audience": "everyone",
       "title": "A weekend of Rage and Hope",
       "subtitle": "How Ordinary Nashvillians Are Building the City They Need, One Bench at a Time",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2014,
+      "public_url": "https://readrichtext.substack.com/p/a-weekend-of-rage-and-hope"
     },
     {
       "post_id": "174115434",
@@ -1206,7 +1393,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 676,
+      "public_url": "https://readrichtext.substack.com/p/why-im-terrible-at-asking-for-money"
     },
     {
       "post_id": "174048110",
@@ -1219,7 +1408,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1466,
+      "public_url": "https://readrichtext.substack.com/p/why-support-independent-media-like"
     },
     {
       "post_id": "173950257",
@@ -1232,7 +1423,9 @@
       "audience": "everyone",
       "title": "Boycott Avelo: Why I'm paying more to fly to Rochester",
       "subtitle": "The patriotic, law & order, capitalist reasons I'm protesting this Saturday and voting with my dollars the next time I fly.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1933,
+      "public_url": "https://readrichtext.substack.com/p/boycott-avelo-why-im-paying-more"
     },
     {
       "post_id": "173912980",
@@ -1245,7 +1438,9 @@
       "audience": "everyone",
       "title": "Current Affairs: The Left is Always Right Too Early",
       "subtitle": "A restack of an article I keep thinking about",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3005,
+      "public_url": "https://readrichtext.substack.com/p/current-affairs-the-left-is-always"
     },
     {
       "post_id": "173677465",
@@ -1258,7 +1453,9 @@
       "audience": "everyone",
       "title": "Breaking: Local Political Analyst Has Existential Crisis, Writes Magic Trick",
       "subtitle": "An Experiment in Seeing Whether Literature Can Change What Journalism Can't",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 5700,
+      "public_url": "https://readrichtext.substack.com/p/how-to-escape-tyranny-and-make-new"
     },
     {
       "post_id": "173677362",
@@ -1271,7 +1468,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/41d"
     },
     {
       "post_id": "173185568",
@@ -1284,7 +1483,9 @@
       "audience": "everyone",
       "title": "Mantra: I Am Not Nashville's Political Tech Support.",
       "subtitle": "But neither is the Mayor's Office.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1967,
+      "public_url": "https://readrichtext.substack.com/p/i-am-not-nashvilles-political-tech"
     },
     {
       "post_id": "173047873",
@@ -1297,7 +1498,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1584,
+      "public_url": "https://readrichtext.substack.com/p/get-in-losers-were-doing-something"
     },
     {
       "post_id": "172963695",
@@ -1310,7 +1513,9 @@
       "audience": "everyone",
       "title": "City Cast Nashville Had Me on to Talk OHS and Aardwolves",
       "subtitle": "Listen to the latest episode of City Cast to find out what I'm doing Saturday night. I'll just tell you now actually, going to monster trucks!",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 191,
+      "public_url": "https://readrichtext.substack.com/p/city-cast-nashville-had-me-on-to"
     },
     {
       "post_id": "172684723",
@@ -1323,7 +1528,9 @@
       "audience": "everyone",
       "title": "Nashville's Homeless Services Faces an Audit Over Extraordinary Claims | What Broke in the Accountability Chain?",
       "subtitle": "CM O'Connell's pitch on Twitter to create The Office of Homeless Service was to stop senseless ineffective approaches to homelessness pushed by the Mayor's Office.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1829,
+      "public_url": "https://readrichtext.substack.com/p/nashvilles-homeless-services-faces"
     },
     {
       "post_id": "172611247",
@@ -1336,7 +1543,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 31,
+      "public_url": "https://readrichtext.substack.com/p/the-tensions-are-the-point"
     },
     {
       "post_id": "172611136",
@@ -1349,7 +1558,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1351,
+      "public_url": "https://readrichtext.substack.com/p/freddie-oconnell-broke-nashvilles"
     },
     {
       "post_id": "172590651",
@@ -1362,7 +1573,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4028,
+      "public_url": "https://readrichtext.substack.com/p/vibe-clash"
     },
     {
       "post_id": "172538466",
@@ -1375,7 +1588,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2380,
+      "public_url": "https://readrichtext.substack.com/p/freddie-oconnell-broke-nashvilles"
     },
     {
       "post_id": "172366482",
@@ -1388,7 +1603,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2073,
+      "public_url": "https://readrichtext.substack.com/p/get-in-loser-were-doing-something"
     },
     {
       "post_id": "172191647",
@@ -1401,7 +1618,9 @@
       "audience": "everyone",
       "title": "Exec. Director of Depaul USA, Strobel House Operator, Resigns After Concerning Revelations",
       "subtitle": "The ED's resignation came after attention to contract irregularities, unreported incidents of assault, and fire at Strobel House",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 717,
+      "public_url": "https://readrichtext.substack.com/p/exec-director-of-depaul-usa-strobel"
     },
     {
       "post_id": "172141626",
@@ -1414,7 +1633,9 @@
       "audience": "everyone",
       "title": "On Citing AI-Generated Work Transparently",
       "subtitle": "A break from yelling at clouds, a detour for a tool to hold ourselves accountable",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1279,
+      "public_url": "https://readrichtext.substack.com/p/on-citing-ai-generated-work-transparently"
     },
     {
       "post_id": "171619020",
@@ -1427,7 +1648,9 @@
       "audience": "everyone",
       "title": "Between the Celebration and the Crisis: A Tale of Two Nashvilles on One Thursday",
       "subtitle": "A multi-part exploration of Nashville's homelessness spending, and how COVID-19 relief funds turned homelessness into a boom industry",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2271,
+      "public_url": "https://readrichtext.substack.com/p/prelude-the-dialectics-of-homelessness"
     },
     {
       "post_id": "171535813",
@@ -1440,7 +1663,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2836,
+      "public_url": "https://readrichtext.substack.com/p/nashville-spent-428-more-on-homeless"
     },
     {
       "post_id": "171344469",
@@ -1453,7 +1678,9 @@
       "audience": "everyone",
       "title": "They Only \"Discovered\" the $500k Payment Issues When I Found It By Accident",
       "subtitle": "How Months of Fighting Metro's Information Blockade Exposed $500k in Backdated Invoices, Alarming Financial Bypasses, and a Government That Charges Citizens $4,500 to Read Its Laws",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3871,
+      "public_url": "https://readrichtext.substack.com/p/they-only-discovered-the-problem"
     },
     {
       "post_id": "171317628",
@@ -1466,7 +1693,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 589,
+      "public_url": "https://readrichtext.substack.com/p/b00"
     },
     {
       "post_id": "171292578",
@@ -1479,7 +1708,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3115,
+      "public_url": "https://readrichtext.substack.com/p/nashvilles-homelessness-budget-increased"
     },
     {
       "post_id": "170812422",
@@ -1492,7 +1723,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1,
+      "public_url": "https://readrichtext.substack.com/p/rules-of-engageragement"
     },
     {
       "post_id": "170694573",
@@ -1505,7 +1738,9 @@
       "audience": "everyone",
       "title": "The Center Will Always Fold",
       "subtitle": "Purportedly \"Progressive\" leaders across Nashville perpetuate a dangerous self-aggrandizing victim complex that plays into authoritarian hands",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3266,
+      "public_url": "https://readrichtext.substack.com/p/the-center-will-always-fold"
     },
     {
       "post_id": "170624866",
@@ -1518,7 +1753,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3795,
+      "public_url": "https://readrichtext.substack.com/p/progressive-centrism-and-nashvilles"
     },
     {
       "post_id": "170321769",
@@ -1531,7 +1768,9 @@
       "audience": "only_paid",
       "title": "Thanks so much for supporting this work!",
       "subtitle": "We've done some cool stuff. I want to know what you'd like to see and any ways you'd want to be involved",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 543,
+      "public_url": "https://readrichtext.substack.com/p/thanks-so-much-for-supporting-this"
     },
     {
       "post_id": "170018381",
@@ -1544,7 +1783,9 @@
       "audience": "everyone",
       "title": "Why I'm building something new—for all of us",
       "subtitle": "A proposal for local social design infrastructure in the age of broken systems and silent collapse.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2248,
+      "public_url": "https://readrichtext.substack.com/p/why-im-building-something-newfor"
     },
     {
       "post_id": "168595217",
@@ -1557,7 +1798,9 @@
       "audience": "everyone",
       "title": "Convo w/ @micheleflynn: 'Why should we all care that Metro Council just voted to merge the Gulch Business District with the Downtown Partnership?'",
       "subtitle": "The Rise of Nashville's Private Government—and the Public Cost",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 951,
+      "public_url": "https://readrichtext.substack.com/p/convo-w-micheleflynn-why-should-we"
     },
     {
       "post_id": "168577436",
@@ -1570,7 +1813,9 @@
       "audience": "everyone",
       "title": "Time off",
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1226,
+      "public_url": "https://readrichtext.substack.com/p/time-off"
     },
     {
       "post_id": "168420934",
@@ -1583,7 +1828,9 @@
       "audience": "only_paid",
       "title": "Important correction to something on the mini-site in my last email",
       "subtitle": "Thankfully there were no injuries.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 74,
+      "public_url": "https://readrichtext.substack.com/p/important-correction-to-something"
     },
     {
       "post_id": "168420762",
@@ -1596,7 +1843,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 5,
+      "public_url": "https://readrichtext.substack.com/p/important-correction-to-last-post"
     },
     {
       "post_id": "168403758",
@@ -1609,7 +1858,9 @@
       "audience": "everyone",
       "title": "Council Votes Tonight on Whether To Reward Downtown Partnership After Decades of No Oversight on $60M+",
       "subtitle": "What's the worst that could happen given the explosive revelations of late when it comes to DTP and Council's entangled history?",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 446,
+      "public_url": "https://readrichtext.substack.com/p/council-votes-tonight-on-whether"
     },
     {
       "post_id": "168360496",
@@ -1622,7 +1873,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2397,
+      "public_url": "https://readrichtext.substack.com/p/piercing-the-corporate-veil-of-ndps"
     },
     {
       "post_id": "168359867",
@@ -1635,7 +1888,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/714"
     },
     {
       "post_id": "168315434",
@@ -1648,7 +1903,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 932,
+      "public_url": "https://readrichtext.substack.com/p/should-we-make-this-platform-for"
     },
     {
       "post_id": "168314260",
@@ -1661,7 +1918,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/e44"
     },
     {
       "post_id": "168167858",
@@ -1674,7 +1933,9 @@
       "audience": "everyone",
       "title": "Read: Office of Homeless Services' Email To Metro Council re: My Data Dump of Their Financials",
       "subtitle": "Read the response OHS Provided to Metro Council to this weeks release of two years of their financials.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1117,
+      "public_url": "https://readrichtext.substack.com/p/read-office-of-homeless-services"
     },
     {
       "post_id": "168040276",
@@ -1687,7 +1948,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 667,
+      "public_url": "https://readrichtext.substack.com/p/unseen-photos-and-video-of-possible"
     },
     {
       "post_id": "168034445",
@@ -1700,7 +1963,9 @@
       "audience": "everyone",
       "title": "Downtown Partnership's Specially Assessed Nonsense",
       "subtitle": "When and Why did Metro Council Give Up Its Oversight over $Millions of Business Improvement District Funds?",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3056,
+      "public_url": "https://readrichtext.substack.com/p/downtown-partnerships-specially-assessed"
     },
     {
       "post_id": "167880997",
@@ -1713,7 +1978,9 @@
       "audience": "only_paid",
       "title": "Link Included this Time | OHS Data Dump | FY24 & FY25 financial records released",
       "subtitle": "Same as prior email, but actually with the link to the thing I wanted you to see.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1256,
+      "public_url": "https://readrichtext.substack.com/p/link-included-this-time-ohs-data"
     },
     {
       "post_id": "167875937",
@@ -1726,7 +1993,9 @@
       "audience": "everyone",
       "title": "OHS Data Dump | FY24 & FY25 financial records released",
       "subtitle": "The Raw Ingredients for a Community Audit of The Office of Homeless Services—Because Public Money Deserves Public Oversight",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1231,
+      "public_url": "https://readrichtext.substack.com/p/ohs-data-dump-fy24-and-fy25-financial"
     },
     {
       "post_id": "167746148",
@@ -1739,7 +2008,9 @@
       "audience": "everyone",
       "title": "Why We Have To Talk About What Nashville Ignores",
       "subtitle": "How TN Prototyped the Big Beautiful Bill and We Never Discuss It",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2763,
+      "public_url": "https://readrichtext.substack.com/p/why-we-have-to-talk-about-what-nashville"
     },
     {
       "post_id": "167620701",
@@ -1752,7 +2023,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 566,
+      "public_url": "https://readrichtext.substack.com/p/the-rules-of-engagement"
     },
     {
       "post_id": "167476519",
@@ -1765,7 +2038,9 @@
       "audience": "everyone",
       "title": "Time Is The Whip We Hold",
       "subtitle": "Art and Poetry for you today.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 662,
+      "public_url": "https://readrichtext.substack.com/p/time-is-the-whip-we-hold"
     },
     {
       "post_id": "167308106",
@@ -1778,7 +2053,9 @@
       "audience": "everyone",
       "title": "Nashville's Coordinated Process for Serving the Homeless Goes Out with a Bang",
       "subtitle": "Fallout of Music City's patriotic combustibles have set a fuse that may end Metro's consolidation of control over the Continuum of Care.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2002,
+      "public_url": "https://readrichtext.substack.com/p/any-coordinated-process-for-serving"
     },
     {
       "post_id": "167298712",
@@ -1791,7 +2068,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 5732,
+      "public_url": "https://readrichtext.substack.com/p/20-housing-must-flow"
     },
     {
       "post_id": "167118613",
@@ -1804,7 +2083,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 6348,
+      "public_url": "https://readrichtext.substack.com/p/the-housing-must-flow"
     },
     {
       "post_id": "166838119",
@@ -1817,7 +2098,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1042,
+      "public_url": "https://readrichtext.substack.com/p/028"
     },
     {
       "post_id": "166338514",
@@ -1830,7 +2113,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 256,
+      "public_url": "https://readrichtext.substack.com/p/i-invented-a-disclosure-system-for"
     },
     {
       "post_id": "166039743",
@@ -1843,7 +2128,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3620,
+      "public_url": "https://readrichtext.substack.com/p/laughing-our-beyond-the-end-of-history"
     },
     {
       "post_id": "165952280",
@@ -1856,7 +2143,9 @@
       "audience": "everyone",
       "title": "What if anti-Trump protests are an exercise in state sponsored \"managed conflict\"? And why that wouldn't matter...",
       "subtitle": "How we can weaponize sincerity and absurdity against forces that aim to institutionalize nihilism.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3614,
+      "public_url": "https://readrichtext.substack.com/p/what-if-yesterdays-anti-trump-protests"
     },
     {
       "post_id": "165483515",
@@ -1869,7 +2158,9 @@
       "audience": "everyone",
       "title": "Am I spreading \"Fake News\", or just Uncomfortable Truths?",
       "subtitle": "What Would it Take to Rebuild Trust in One of Nashville's Most Complex Systems?",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2012,
+      "public_url": "https://readrichtext.substack.com/p/am-i-spreadingfake-news-or-just-uncomfortable"
     },
     {
       "post_id": "165418133",
@@ -1882,7 +2173,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1461,
+      "public_url": "https://readrichtext.substack.com/p/my-feelings-about-being-called-fake"
     },
     {
       "post_id": "165346024",
@@ -1895,7 +2188,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4000,
+      "public_url": "https://readrichtext.substack.com/p/tension-at-the-edge-of-chaos"
     },
     {
       "post_id": "165244706",
@@ -1908,7 +2203,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 0,
+      "public_url": "https://readrichtext.substack.com/p/9f4"
     },
     {
       "post_id": "164660454",
@@ -1921,7 +2218,9 @@
       "audience": "everyone",
       "title": "I talked about The Office of Homeless Services on Today's City Cast Podcast Episode",
       "subtitle": "Whitney Pastorek had Kennetha Patterson, Chair of the Executive Committee of the Homelessness Planning Council (HPC), and me on Nashville's City Cast podcast to discuss the Office of Homeless Services",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 197,
+      "public_url": "https://readrichtext.substack.com/p/i-talked-about-the-office-of-homeless"
     },
     {
       "post_id": "164564211",
@@ -1934,7 +2233,9 @@
       "audience": "everyone",
       "title": "NYT and 404 Media: ICE & LPRs, the Intersection of Surveillance And Immigration",
       "subtitle": "Articles in Major Publications Today Unpack the Role of Local Law Enforcement, Surveillance in National & Local Crises of Disappeared Neighbors",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3009,
+      "public_url": "https://readrichtext.substack.com/p/nyt-and-404-media-ice-and-lprs-the"
     },
     {
       "post_id": "163954963",
@@ -1947,7 +2248,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 757,
+      "public_url": "https://readrichtext.substack.com/p/copy-updates-corrections-clarifications"
     },
     {
       "post_id": "163950805",
@@ -1960,7 +2263,9 @@
       "audience": "everyone",
       "title": "Housing Last | The Rodeway to Nowhere; Follow-up Thread",
       "subtitle": "Modifications to \"Housing Last | The Rodeway to Nowhere\" since publishing consolidated here for transparency",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 909,
+      "public_url": "https://readrichtext.substack.com/p/updates-corrections-clarifications"
     },
     {
       "post_id": "163865780",
@@ -1973,7 +2278,9 @@
       "audience": "only_paid",
       "title": "Housing Last | The Rodeway to Nowhere",
       "subtitle": "The Cruel Illogic of Encampment Closures Without New Housing",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3836,
+      "public_url": "https://readrichtext.substack.com/p/housing-last-the-rodeway-to-nowhere"
     },
     {
       "post_id": "163752162",
@@ -1986,7 +2293,9 @@
       "audience": "everyone",
       "title": "Housing Last | The Rodeway to Nowhere",
       "subtitle": "The Cruel Illogic of Encampment Closures Without New Housing",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4294,
+      "public_url": "https://readrichtext.substack.com/p/housing-last-what-problem-are-they"
     },
     {
       "post_id": "163057954",
@@ -1999,7 +2308,9 @@
       "audience": "everyone",
       "title": "Nashville ICE Detainee Recounts THP Encounter, Alleges Coerced Self-Deportation, Money Stolen by Ice Agents",
       "subtitle": "One of this weekend's detainees from Nashville's massive ICE raid made contact with their employer. The story should concern even anti-immigration's biggest supporters.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 837,
+      "public_url": "https://readrichtext.substack.com/p/nashville-ice-detainee-recounts-thp"
     },
     {
       "post_id": "163027385",
@@ -2012,7 +2323,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1032,
+      "public_url": "https://readrichtext.substack.com/p/11f"
     },
     {
       "post_id": "162852549",
@@ -2025,7 +2338,9 @@
       "audience": "everyone",
       "title": "Can you help identify the disappeared Nashvillians from last night's ICE raid?",
       "subtitle": "The Feds have told us nothing. We need answers, starting with \"who's gone?\"",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1633,
+      "public_url": "https://readrichtext.substack.com/p/can-you-help-identify-the-disappeared"
     },
     {
       "post_id": "162341628",
@@ -2038,7 +2353,9 @@
       "audience": "everyone",
       "title": "Fusus put off because of \"erosions in the rule of law at the federal level\"",
       "subtitle": "Council Members' and Mayor's Office Concerns Too Great to Overcome",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 822,
+      "public_url": "https://readrichtext.substack.com/p/fusus-put-off-because-of-erosions"
     },
     {
       "post_id": "162168924",
@@ -2051,7 +2368,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 7157,
+      "public_url": "https://readrichtext.substack.com/p/housing-last-notoriety-is-the-best"
     },
     {
       "post_id": "161638971",
@@ -2064,7 +2383,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4947,
+      "public_url": "https://readrichtext.substack.com/p/the-ladder-and-the-hammer"
     },
     {
       "post_id": "161549962",
@@ -2077,7 +2398,9 @@
       "audience": "everyone",
       "title": "Housing Last: A Reality Check, Is It Really That Bad?",
       "subtitle": "Mayor O'Connell's candid answers on the financial state of our homelessness services should raise alarms, especially since the number of us who are housing insecure is going to explode.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1373,
+      "public_url": "https://readrichtext.substack.com/p/housing-last-a-reality-check-is-it"
     },
     {
       "post_id": "161513332",
@@ -2090,7 +2413,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1077,
+      "public_url": "https://readrichtext.substack.com/p/6f1"
     },
     {
       "post_id": "161318699",
@@ -2103,7 +2428,9 @@
       "audience": "everyone",
       "title": "Housing Last: Preface",
       "subtitle": "A series of essays exploring how our current services for the unhoused reveal the deeper systemic failures we must reimagine and rebuild in the world that follows.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1124,
+      "public_url": "https://readrichtext.substack.com/p/housing-last-preface"
     },
     {
       "post_id": "160427494",
@@ -2116,7 +2443,9 @@
       "audience": "everyone",
       "title": "The Democrats and New York Times Are Misunderstanding Liberal Wins Yesterday",
       "subtitle": "Musk is a symptom, not the disease.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1414,
+      "public_url": "https://readrichtext.substack.com/p/the-democrats-and-new-york-times"
     },
     {
       "post_id": "158856744",
@@ -2129,7 +2458,9 @@
       "audience": "everyone",
       "title": "Nashville Businesses and Metro Gov't: Don't Take My Word on Fusus. Ask A Lawyer, Like Adam Shoop.",
       "subtitle": "Nashville Resident and Former Legal Director of the Civil Action Practice at the Bronx Defenders Office Has Been Providing Testimony",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 4287,
+      "public_url": "https://readrichtext.substack.com/p/nashville-businesses-and-metro-govt"
     },
     {
       "post_id": "158662808",
@@ -2142,7 +2473,9 @@
       "audience": "everyone",
       "title": "Downtown Nashville's Self-Made Privacy Crisis",
       "subtitle": "The surveillance product that Downtown businesses are cajoling the Mayor to implement could turn those businesses \"into the product.\" I know it's possible, because I used to do it.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 6132,
+      "public_url": "https://readrichtext.substack.com/p/downtown-nashvilles-self-made-privacy"
     },
     {
       "post_id": "158612379",
@@ -2155,7 +2488,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1741,
+      "public_url": "https://readrichtext.substack.com/p/axonaxoff-a-hiatus-on-surveillance"
     },
     {
       "post_id": "158567273",
@@ -2168,7 +2503,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1497,
+      "public_url": "https://readrichtext.substack.com/p/metro-government-axon-not-responding"
     },
     {
       "post_id": "158548126",
@@ -2181,7 +2518,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1545,
+      "public_url": "https://readrichtext.substack.com/p/conservative-identity-politics-and"
     },
     {
       "post_id": "158253692",
@@ -2194,7 +2533,9 @@
       "audience": "everyone",
       "title": "Metro is endorsing small businesses use Axon's Fusus tech. But does it use Chinese hardware or resell your data? Many questions unanswered.",
       "subtitle": "Axon's site doesn't list Fusus terms of service. What are we even asking our small business owners to agree to?",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1991,
+      "public_url": "https://readrichtext.substack.com/p/metro-is-endorsing-small-businesses"
     },
     {
       "post_id": "158211066",
@@ -2207,7 +2548,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 2152,
+      "public_url": "https://readrichtext.substack.com/p/nashville-business-owners-who-will"
     },
     {
       "post_id": "158137144",
@@ -2220,7 +2563,9 @@
       "audience": "only_paid",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1616,
+      "public_url": "https://readrichtext.substack.com/p/fusus-is-a-bad-solution-to-a-real"
     },
     {
       "post_id": "158081081",
@@ -2233,7 +2578,9 @@
       "audience": "everyone",
       "title": "Axon's FUSUS is a bad idea. Just Ask New Orleans, or Former Council Member O'Connell",
       "subtitle": "2024's Tennessean of the Year said it best in 2021",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 632,
+      "public_url": "https://readrichtext.substack.com/p/axons-fusus-is-a-bad-idea-just-ask"
     },
     {
       "post_id": "157995048",
@@ -2246,7 +2593,9 @@
       "audience": "everyone",
       "title": null,
       "subtitle": null,
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 682,
+      "public_url": "https://readrichtext.substack.com/p/council-member-freddie-oconnell-warns"
     },
     {
       "post_id": "156250758",
@@ -2259,7 +2608,9 @@
       "audience": "everyone",
       "title": "The Only Way For Metro To Keep Resident Data from the Feds is Not To Have It",
       "subtitle": "Now is not the time to collect more data on Nashvillians",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 1674,
+      "public_url": "https://readrichtext.substack.com/p/the-only-way-for-metro-to-keep-resident"
     },
     {
       "post_id": "155251807",
@@ -2272,7 +2623,9 @@
       "audience": "everyone",
       "title": "The MLK They Want Us to Forget",
       "subtitle": "MLK was not the post-racial liberal dreamer he's commemorated as. Guided by existentialist philosophy, he chose non-violence to inflict the most damage possible on the status quo. And so should we.",
-      "podcast_url": null
+      "podcast_url": null,
+      "word_count": 3136,
+      "public_url": "https://readrichtext.substack.com/p/the-mlk-they-want-us-to-forget"
     }
   ],
   "themes": {
