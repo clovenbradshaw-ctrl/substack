@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "source": "Morning Coffee Artist Shopify Store",
+    "store_url": "https://morningcoffeeartist.myshopify.com",
+    "last_updated": "2025-12-18",
+    "total_items": 36,
+    "currency": "USD",
+    "note": "Items extracted from page 1 of 3 - additional items may exist on pages 2 and 3"
+  },
+  "artists": [
+    {
+      "name": "David Cline (Clincasso)",
+      "product_id": "8274372788411",
+      "url": "/products/david-cline-clincasso",
+      "price": 0.00,
+      "type": "artist_profile"
+    },
+    {
+      "name": "Ellie Kane",
+      "product_id": "8274360828091",
+      "url": "/products/ellie-kane",
+      "price": 0.00,
+      "type": "artist_profile"
+    },
+    {
+      "name": "A.M.Hassan Amatullah Hassan",
+      "product_id": "8274353651899",
+      "url": "/products/a-m-hassan-amatullah-hassan",
+      "price": 0.00,
+      "type": "artist_profile"
+    },
+    {
+      "name": "Edwin Lockridge",
+      "product_id": "8274350145723",
+      "url": "/products/edwin-lockridge",
+      "price": 0.00,
+      "type": "artist_profile"
+    },
+    {
+      "name": "Cheryl Harris",
+      "product_id": "8274342084795",
+      "url": "/products/cheryl-harris",
+      "price": 0.00,
+      "type": "artist_profile"
+    },
+    {
+      "name": "Daniel Holmes",
+      "product_id": "8270457176251",
+      "url": "/products/daniel-holmes",
+      "price": 0.00,
+      "type": "artist_profile"
+    }
+  ],
+  "artwork": [
+    {
+      "title": "Diamond in the Rough card",
+      "product_id": "8118362210491",
+      "variant_id": "46781729800379",
+      "url": "/products/diamond-in-the-rough-card",
+      "price": 2.00,
+      "image": "rn-image_picker_lib_temp_c2179723-9d37-4aa8-ba9e-f722688f807b.jpg"
+    },
+    {
+      "title": "Community videos touch pictures",
+      "product_id": "8274384978107",
+      "variant_id": "47302118998203",
+      "url": "/products/community",
+      "price": 5.00,
+      "image": null,
+      "type": "video"
+    },
+    {
+      "title": "Voices of Resilience - Nashville Homeless Choir",
+      "product_id": "8274377932987",
+      "variant_id": "47302093275323",
+      "url": "/products/voices-of-resilience-nasville-homeless-choir",
+      "price": 5.00,
+      "image": "rn-image_picker_lib_temp_4484541b-b9bc-4af8-bf2b-5be33d2acbcf.jpg"
+    },
+    {
+      "title": "People Of the wolf",
+      "product_id": "8274376622267",
+      "variant_id": "47302090260667",
+      "url": "/products/people-of-the-wolf-1",
+      "price": 5.00,
+      "image": "rn-image_picker_lib_temp_e3c1c2db-42e3-45e5-86ca-2a129e334618.jpg"
+    },
+    {
+      "title": "People Of the Wolf",
+      "product_id": "8274375114939",
+      "variant_id": "47302085607611",
+      "url": "/products/people-of-the-wolf",
+      "price": 5.00,
+      "image": "rn-image_picker_lib_temp_695d5cf8-c20c-40f5-8371-d91e17d555ff.jpg"
+    },
+    {
+      "title": "Round and Around",
+      "product_id": "8274357485755",
+      "variant_id": "47301957976251",
+      "url": "/products/round-and-around",
+      "price": 50.00,
+      "image": "rn-image_picker_lib_temp_4a028f67-3dac-4d01-a20f-5f1a15d4ee63.jpg"
+    },
+    {
+      "title": "Broken Heart",
+      "product_id": "8274357158075",
+      "variant_id": "47301954306235",
+      "url": "/products/broken-heart",
+      "price": 50.00,
+      "image": "rn-image_picker_lib_temp_a7615e07-470d-4143-a36f-795a87d786e4.jpg"
+    },
+    {
+      "title": "Waterfall",
+      "product_id": "8274356994235",
+      "variant_id": "47301953945787",
+      "url": "/products/waterfall",
+      "price": 50.00,
+      "image": "rn-image_picker_lib_temp_4f7c9850-5756-464f-83d9-a314ec014a41.jpg"
+    },
+    {
+      "title": "Edge of the World",
+      "product_id": "8274356699323",
+      "variant_id": "47301953421499",
+      "url": "/products/edge-of-the-world",
+      "price": 50.00,
+      "image": "rn-image_picker_lib_temp_45e377ff-9e90-415b-b3d7-4d7b6a176940.jpg"
+    },
+    {
+      "title": "Rain Forest",
+      "product_id": "8274356371643",
+      "variant_id": "47301951226043",
+      "url": "/products/rain-forest",
+      "price": 50.00,
+      "image": "rn-image_picker_lib_temp_3edf3c6f-3411-4ba3-b63b-705392f46248.jpg"
+    },
+    {
+      "title": "Red Hot",
+      "product_id": "8274354241723",
+      "variant_id": "47301918425275",
+      "url": "/products/red-hot",
+      "price": 85.00,
+      "image": "rn-image_picker_lib_temp_9eee60a2-6876-443c-a1a4-89111aec21e0.jpg"
+    },
+    {
+      "title": "Deep In The Dark Forest",
+      "product_id": "8274353914043",
+      "variant_id": "47301917606075",
+      "url": "/products/deep-in-the-dark-forest",
+      "price": 50.00,
+      "image": "rn-image_picker_lib_temp_c54899d8-1e04-48c5-b84f-dc8b282a89bd.jpg"
+    },
+    {
+      "title": "N.E.S.W.",
+      "product_id": "8274353193147",
+      "variant_id": "47301912002747",
+      "url": "/products/n-e-s-w",
+      "price": 2000.00,
+      "image": "rn-image_picker_lib_temp_8a29a2c3-3664-4f0d-adfb-2d8bb5a7c96f.jpg"
+    },
+    {
+      "title": "55 Plus",
+      "product_id": "8274352046267",
+      "variant_id": "47301905744059",
+      "url": "/products/55-plus",
+      "price": 1000.00,
+      "image": "rn-image_picker_lib_temp_a21e370c-226d-4c5e-960e-1107b903ba08.jpg"
+    },
+    {
+      "title": "Art Deco",
+      "product_id": "8274351653051",
+      "variant_id": "47301897617595",
+      "url": "/products/art-deco",
+      "price": 2000.00,
+      "image": "rn-image_picker_lib_temp_7799844a-0444-47bb-aee2-7538d59ee254.jpg"
+    },
+    {
+      "title": "East Meets West",
+      "product_id": "8274351423675",
+      "variant_id": "47301888311483",
+      "url": "/products/east-meets-west",
+      "price": 1000.00,
+      "image": "rn-image_picker_lib_temp_0e0b2090-e9d3-4555-8ec1-1b690d274f99.jpg"
+    },
+    {
+      "title": "TV LINES",
+      "product_id": "8274351227067",
+      "variant_id": "47301887721659",
+      "url": "/products/tv-lines",
+      "price": 500.00,
+      "image": "rn-image_picker_lib_temp_c41503bd-780c-49cc-8faa-38cc3ec48d1d.jpg"
+    },
+    {
+      "title": "AM.PM",
+      "product_id": "8274351095995",
+      "variant_id": "47301887492283",
+      "url": "/products/am-pm",
+      "price": 500.00,
+      "image": "rn-image_picker_lib_temp_4a447f18-14d2-4411-8431-e311ba1c7836.jpg"
+    },
+    {
+      "title": "The Garden",
+      "product_id": "8274349293755",
+      "variant_id": "47301866094779",
+      "url": "/products/the-garden",
+      "price": 50.00,
+      "image": "rn-image_picker_lib_temp_c331e901-1315-4feb-a3f0-459cc9c9403b.jpg"
+    },
+    {
+      "title": "Growing Up",
+      "product_id": "8274348966075",
+      "variant_id": "47301865668795",
+      "url": "/products/growing-up",
+      "price": 30.00,
+      "image": "rn-image_picker_lib_temp_67385316-2f1e-4fb1-9bd7-73659314253e.jpg"
+    },
+    {
+      "title": "A Touch of Burgundy",
+      "product_id": "8274347720891",
+      "variant_id": "47301855510715",
+      "url": "/products/a-touch-of-burgundy",
+      "price": 40.00,
+      "image": "rn-image_picker_lib_temp_3292f657-26cd-4709-a7f4-dd7aae777a5b.jpg"
+    },
+    {
+      "title": "California Sequoia Tree",
+      "product_id": "8274337300667",
+      "variant_id": "47301843812539",
+      "url": "/products/california-sequoia-tree",
+      "price": 200.00,
+      "image": "rn-image_picker_lib_temp_a7406fe9-ff84-443d-a085-366c8a242582.jpg"
+    },
+    {
+      "title": "The Contributor",
+      "product_id": "8274335367355",
+      "variant_id": "47301832048827",
+      "url": "/products/the-contributor",
+      "price": 200.00,
+      "image": "rn-image_picker_lib_temp_3ba38c66-c440-42d8-a878-6560323ea8fe.jpg"
+    },
+    {
+      "title": "Timeless Beauty (Mandala project)",
+      "product_id": "8274321440955",
+      "variant_id": "47301793382587",
+      "url": "/products/timeless-beauty-mandela-project",
+      "price": 1000.00,
+      "image": "rn-image_picker_lib_temp_51d99e9f-9eaa-495c-ae8d-1c66ef645998.jpg"
+    },
+    {
+      "title": "Bouquet",
+      "product_id": "8274320949435",
+      "variant_id": "47301791350971",
+      "url": "/products/bouquet",
+      "price": 200.00,
+      "image": "rn-image_picker_lib_temp_6b71d9ab-7eb1-4a59-af83-de0453975ec2.jpg"
+    },
+    {
+      "title": "Emerald Mountain",
+      "product_id": "8274320163003",
+      "variant_id": "47301789221051",
+      "url": "/products/emerald-mountain",
+      "price": 100.00,
+      "image": "rn-image_picker_lib_temp_78480222-2e31-4b8e-bb7d-691c14c4218d.jpg"
+    },
+    {
+      "title": "The Rose",
+      "product_id": "8274318983355",
+      "variant_id": "47301776441531",
+      "url": "/products/the-rose",
+      "price": 50.00,
+      "image": "rn-image_picker_lib_temp_b6622ab5-8cd9-4a58-9f64-d58b2525d851.jpg"
+    },
+    {
+      "title": "Splendid Sapphire",
+      "product_id": "8274316230843",
+      "variant_id": "47301747278011",
+      "url": "/products/splendid-sapphire",
+      "price": 100.00,
+      "image": "rn-image_picker_lib_temp_fe0d7cd8-4616-40b2-9d86-339eb760106e.jpg"
+    },
+    {
+      "title": "Strength and Beauty",
+      "product_id": "8274314723515",
+      "variant_id": "47301730271419",
+      "url": "/products/strength-and-beauty",
+      "price": 250.00,
+      "image": "rn-image_picker_lib_temp_068cae5a-69c2-4a51-8c1e-e63598747d69.jpg"
+    },
+    {
+      "title": "The Well",
+      "product_id": "8274308071611",
+      "variant_id": "47301682167995",
+      "url": "/products/the-well-1",
+      "price": 75.00,
+      "image": "rn-image_picker_lib_temp_6f5449d6-1824-4086-86a8-e811d68b6346.jpg"
+    }
+  ],
+  "summary": {
+    "total_artwork": 30,
+    "total_artist_profiles": 6,
+    "price_range": {
+      "min": 2.00,
+      "max": 2000.00
+    },
+    "free_items": 6,
+    "categories": {
+      "under_50": 7,
+      "50_to_100": 12,
+      "100_to_500": 7,
+      "500_to_1000": 2,
+      "over_1000": 4
+    }
+  }
+}
